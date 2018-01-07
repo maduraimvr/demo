@@ -142,6 +142,10 @@
     <script src="${pageContext.request.contextPath}/resources/vendors/bootstrap-daterangepicker/daterangepicker.js"></script>
 
     <!-- Custom Theme Scripts -->
-    <script src="${pageContext.request.contextPath}/resources/js/custom.js"></script>
+<%--     <script src="${pageContext.request.contextPath}/resources/js/custom.js"></script> --%>
+    
+    <!-- Main Functionality Scripts -->
+    <script src="${pageContext.request.contextPath}/resources/js/main.js"></script>
+    <script src="${pageContext.request.contextPath}/resources/js/dashboard.js"></script>
   </body>
 </html>
